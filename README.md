@@ -28,8 +28,10 @@ Next.js is an open-source web development framework created by the private compa
 # Page load time
  Page load time: 0.3s to 0.7s.
  Page load time is measured by gtmetric.com
+ ![Screenshot 2023-12-28 193743](https://github.com/dikesh9406/Atlan-sql-editor/assets/93417755/2ef5a1a6-e599-4db0-820d-ebb416449d60)
 
- ![GTmetrix Grade Report](./performance/gtmetrix.png)
+
+ 
 
  # Optimisations you did to decrease the load time or increase performance
 
