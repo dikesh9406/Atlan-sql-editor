@@ -25,6 +25,23 @@ Next.js is an open-source web development framework created by the private compa
 : react-ace
 
 
+# Page load time
+ Page load time: 0.3s to 0.7s.
+ Page load time is measured by gtmetric.com
+
+ ![GTmetrix Grade Report](./performance/gtmetrix.png)
+
+ # Optimisations you did to decrease the load time or increase performance
+
+ - Used Lighthouse DevTools extension to encounter the performance issue. 
+
+
+
+
+
+
+
+
 
 
 
